@@ -819,6 +819,20 @@
   </url>
   
   <url>
+    <loc>https://aliatry.com/tags/mappedBy/</loc>
+    <lastmod>2024-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://aliatry.com/tags/JoinColumn/</loc>
+    <lastmod>2024-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://aliatry.com/tags/idea/</loc>
     <lastmod>2024-04-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -883,20 +897,6 @@
   
   <url>
     <loc>https://aliatry.com/tags/%E5%85%B3%E7%B3%BB%E6%98%A0%E5%B0%84/</loc>
-    <lastmod>2024-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://aliatry.com/tags/mappedBy/</loc>
-    <lastmod>2024-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://aliatry.com/tags/JoinColumn/</loc>
     <lastmod>2024-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1400,14 +1400,14 @@
   </url>
   
   <url>
-    <loc>https://aliatry.com/tags/struts-xml/</loc>
+    <loc>https://aliatry.com/tags/servlet/</loc>
     <lastmod>2024-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://aliatry.com/tags/servlet/</loc>
+    <loc>https://aliatry.com/tags/struts-xml/</loc>
     <lastmod>2024-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1843,7 +1843,7 @@
   </url>
   
   <url>
-    <loc>https://aliatry.com/categories/hibernate/%E5%85%B3%E7%B3%BB%E6%98%A0%E5%B0%84/</loc>
+    <loc>https://aliatry.com/categories/hibernate/%E6%B3%A8%E8%A7%A3/</loc>
     <lastmod>2024-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1871,7 +1871,7 @@
   </url>
   
   <url>
-    <loc>https://aliatry.com/categories/hibernate/%E6%B3%A8%E8%A7%A3/</loc>
+    <loc>https://aliatry.com/categories/hibernate/%E5%85%B3%E7%B3%BB%E6%98%A0%E5%B0%84/</loc>
     <lastmod>2024-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

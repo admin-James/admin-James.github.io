@@ -91,6 +91,8 @@ https://aliatry.com/tags/hibernate/
 https://aliatry.com/tags/%E4%B8%BB%E9%94%AE/
 https://aliatry.com/tags/hexo/
 https://aliatry.com/tags/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/
+https://aliatry.com/tags/mappedBy/
+https://aliatry.com/tags/JoinColumn/
 https://aliatry.com/tags/idea/
 https://aliatry.com/tags/mysql/
 https://aliatry.com/tags/oracle/
@@ -101,8 +103,6 @@ https://aliatry.com/tags/many-to-many/
 https://aliatry.com/tags/many-to-one/
 https://aliatry.com/tags/one-to-many/
 https://aliatry.com/tags/%E5%85%B3%E7%B3%BB%E6%98%A0%E5%B0%84/
-https://aliatry.com/tags/mappedBy/
-https://aliatry.com/tags/JoinColumn/
 https://aliatry.com/tags/increment/
 https://aliatry.com/tags/%E9%85%8D%E7%BD%AE/
 https://aliatry.com/tags/HttpUtils/
@@ -174,8 +174,8 @@ https://aliatry.com/tags/%E8%80%A6%E5%90%88/
 https://aliatry.com/tags/Action/
 https://aliatry.com/tags/%E4%BC%A0%E5%80%BC/
 https://aliatry.com/tags/Interceptor/
-https://aliatry.com/tags/struts-xml/
 https://aliatry.com/tags/servlet/
+https://aliatry.com/tags/struts-xml/
 https://aliatry.com/tags/next/
 https://aliatry.com/tags/ubuntu/
 https://aliatry.com/tags/%E9%83%A8%E7%BD%B2/
@@ -237,11 +237,11 @@ https://aliatry.com/categories/http/
 https://aliatry.com/categories/idea/
 https://aliatry.com/categories/JWT/
 https://aliatry.com/categories/java/
-https://aliatry.com/categories/hibernate/%E5%85%B3%E7%B3%BB%E6%98%A0%E5%B0%84/
+https://aliatry.com/categories/hibernate/%E6%B3%A8%E8%A7%A3/
 https://aliatry.com/categories/easyExcel/
 https://aliatry.com/categories/docker/aliyun/registry/
 https://aliatry.com/categories/linux/mysql/
-https://aliatry.com/categories/hibernate/%E6%B3%A8%E8%A7%A3/
+https://aliatry.com/categories/hibernate/%E5%85%B3%E7%B3%BB%E6%98%A0%E5%B0%84/
 https://aliatry.com/categories/springMVC/
 https://aliatry.com/categories/maven/
 https://aliatry.com/categories/mybatis/
